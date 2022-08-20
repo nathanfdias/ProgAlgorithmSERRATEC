@@ -1,0 +1,37 @@
+Receita de Bolo Algoritmo 
+
+Conferindo Ingredientes:
+
+1- Nós Temos ovos? (Sim = continua)(Não = comprar) Retornar Pergunta
+1- Nós Temos farinha? (Sim = continua)(Não = comprar) Retornar Pergunta
+1- Nós Temos manteiga? (Sim = continua)(Não = comprar) Retornar Pergunta
+1- Nós Temos fermento? (Sim = continua)(Não = comprar) Retornar Pergunta
+1- Nós Temos leite? (Sim = continua)(Não = comprar) Retornar Pergunta
+1- Nós Temos açúcar? (Sim = continua)(Não = comprar) Retornar Pergunta
+1- Nós Temos todos os ingredientes? (Sim = começar)(Não = conferir denovo) Retornar Pergunta
+
+Preparando:
+
+2- Quebrar 4 ovos em um pote
+3- Adicionar os ovos na batedeira
+4- Adicionar 8 colheres de manteiga na batedeira
+5- Adicionar 4 colheres de açúcar na batedeira
+6- Ligar batedeira 
+7- Conferir mistura (Caso esteja bem misturado = continuar) (se não = bater mais) Retornar Passo 7
+8- Misturar 6 partes de Farinha de Trigo e 1 parte de Leite em outro recipiente
+9- Adicionar Nova mistura na batedeira
+10- Misturar novamente acrescentando fermento
+11- Conferir se está homogêneo (Sim = continua)(Não = bater novamente) Retornar Passo 11
+
+Assando:
+
+12- Colocar a massa em um tabuleiro adequado
+13- Pre-aquecer o fogo por 10 min em 180graus
+14- Inserir o tabuleiro com a massa
+
+Finalizando:
+
+15- Conferir bolo após 30 minutos 
+(Caso esteja ao ponto = retirar)
+(Caso esteja "cru" = inserir por mais 5 min e conferir novamente)
+
